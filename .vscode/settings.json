@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "tuple": "c",
+        "cstdio": "c"
+    }
+}
