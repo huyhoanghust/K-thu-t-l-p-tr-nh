@@ -1,2 +1,2 @@
-# K-thu-t-l-p-tr-nh
+# Kithuatlaptrinh
 Bài tập cuối kì môn Kĩ thuật lập trình 20212
